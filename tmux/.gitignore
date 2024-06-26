@@ -1,0 +1,3 @@
+# Ignore everything in .tmux/plugins except the tpm submodule
+.tmux/plugins/*
+!.tmux/plugins/tpm
