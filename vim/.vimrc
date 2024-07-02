@@ -8,6 +8,9 @@ set nocompatible
 " line numbers
 set number
 
+" enable mouse support
+set mouse=a
+
 " highlight cursor
 set cursorline
 
@@ -44,6 +47,14 @@ syntax enable
 " Editing
 """"""""""""""""""""""""""""""""""""""""
 
+" set default tab width to 4 spaces
+set tabstop=4
+
+" set default indent shift to 4 spaces
+set shiftwidth=4
+
+" use spaces instead of tabs by default
+set expandtab
 
 
 """"""""""""""""""""""""""""""""""""""""
