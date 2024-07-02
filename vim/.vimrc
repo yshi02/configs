@@ -17,6 +17,9 @@ set scrolloff=10
 " do not wrap long lines
 set nowrap
 
+" always show status line
+set laststatus=2
+
 
 """"""""""""""""""""""""""""""""""""""""
 " File type, themes, highlighting 
