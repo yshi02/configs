@@ -1,12 +1,12 @@
-[submodule ".vim/pack/themes/start/dracula"]
+[submodule "vim-dracula"]
 	path = vim/.vim/pack/themes/start/dracula
 	url = https://github.com/dracula/vim.git
-[submodule ".tmux/plugins/tpm"]
+[submodule "tmux-tpm"]
 	path = tmux/.tmux/plugins/tpm
 	url = https://github.com/tmux-plugins/tpm
-[submodule "vim/.vim/pack/dist/start/vim-airline"]
+[submodule "vim-airline"]
 	path = vim/.vim/pack/dist/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline
-[submodule "rust.vim"]
+[submodule "vim-rust"]
 	path = vim/.vim/pack/plugins/start/rust.vim
 	url = https://github.com/rust-lang/rust.vim
