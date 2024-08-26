@@ -1,0 +1,2 @@
+create simlinks to .tmux.conf and .tmux
+enter tmux, source config, and reload
